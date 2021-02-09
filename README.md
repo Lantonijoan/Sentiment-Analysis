@@ -1,2 +1,2 @@
 # Sentiment-Analysis
-Analysis of tweets sentiments and its prediction over stock movement
+Tweet sentiment analysis and its impact on stock market prediction.
